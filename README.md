@@ -8,7 +8,7 @@ The investment selection criteria for this fund is a combination of:
 . Top Growth (2015)
 
 The graph allows us to identify which businesses represent the best investment opportunities, for which employment parameters in our widget.
-## Prohject Tableau
+## Project Tableau
 
 ![Presentación1](https://user-images.githubusercontent.com/107339963/223298757-c2ae9451-c5f7-412a-824b-bdf4f8e090d3.gif)
 
